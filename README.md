@@ -1,4 +1,4 @@
-![Iris Dataset Plot](Images/Discriptive stat and Observations.png)
+
 
 ![Iris Dataset Plot](Images/Data1.png)
 ![Iris Dataset Plot](Images/Data2.png)
