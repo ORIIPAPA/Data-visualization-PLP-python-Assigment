@@ -1,9 +1,9 @@
 ![Iris Dataset Plot](Images/Discriptive stat and Observations.png)
 
-![Iris Dataset Plot](Images/Distri of sepal width.png)
-![Iris Dataset Plot](Images/sepal wdth vs petal length.png)
-![Iris Dataset Plot](Images/Discriptive stat and Observations.png)
-![Iris Dataset Plot](Images/Average petal Length per species.png)
+![Iris Dataset Plot](Images/Data1.png)
+![Iris Dataset Plot](Images/Data2.png)
+![Iris Dataset Plot](Images/Data3.png)
+![Iris Dataset Plot](Images/Data4.png)
 
 
 
